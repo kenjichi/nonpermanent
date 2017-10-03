@@ -8,7 +8,7 @@ Reaction.registerPackage({
   autoEnable: true
   layout: [{
     layout: "coreLayoutNonpermanent",
-    workflow: "coreWorkflow",
+    workflow: "coreProductGridWorkflow",
     collection: "Products",
     theme: "default",
     enabled: true,
