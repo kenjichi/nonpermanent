@@ -2,10 +2,10 @@ import { Reaction } from "/server/api";
 
 
 Reaction.registerPackage({
-  label: "My Theme",
-  name: "mytheme",
+  label: "Nonpermanent",
+  name: "nonpermanent",
   icon: "fa fa-vine",
-  autoEnable: true
+  autoEnable: true,
   layout: [{
     layout: "coreLayoutNonpermanent",
     workflow: "coreProductGridWorkflow",
